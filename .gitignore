@@ -4,3 +4,5 @@ geckodriver.log
 .ropeproject
 *.swp
 *.swo
+.coverage
+htmlcov
