@@ -6,3 +6,4 @@ geckodriver.log
 *.swo
 .coverage
 htmlcov
+taskbuster/fixtures
